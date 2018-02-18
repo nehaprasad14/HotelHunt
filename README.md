@@ -1,4 +1,4 @@
-# HotelHunt(HOTEL RESERVATION SYSTEM)
+# HOTEL HUNT(HOTEL RESERVATION SYSTEM)
 ## Overview:
 
 ‘Hotel Hunt’ is a servlet based web application that aims at providing users the ability to search, book rooms and packages for hotels based on various filters. One can search for and book various types of hotel room. The user can search based on various filters such as: hotel name, city, zip code, rating, price range, check-in or check-out date, and various amenities like disability care, gym, pool, etc. and package deals like hotel room in combination with flight or free local tour or car rental service.
