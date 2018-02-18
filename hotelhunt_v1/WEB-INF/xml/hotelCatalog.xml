@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+
+	<HotelCatalog>
+			<!-- City of Chicago ######################################################################### -->
+		<hotel id="1">
+			<name>The Langham</name>
+			<image>img/hotel/hotel1.jpg</image>
+			<address1>330 N Wabash Ave</address1>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<zipcode>60611</zipcode>
+			<hotelRating>5</hotelRating>
+			<highRate>99</highRate>
+			<lowRate>50</lowRate>
+			<promo>No</promo>
+			<disabilityCare>No</disabilityCare>
+			<package>No</package>
+			<carRental>No</carRental>
+			<flight>No</flight>
+			<localTour>No</localTour>
+			<gym>No</gym>
+			<pool>Yes</pool>
+			<discount>5</discount>
+			<rooms>
+				<roomNo>1001</roomNo>
+				<roomNo>1002</roomNo>
+				<roomNo>1003</roomNo>
+				<roomNo>1004</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="2">
+			<name>The Peninsula</name>
+			<image>img/hotel/hotel2.jpg</image>
+			<address1>108 E Superior St</address1>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<zipcode>60611</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>600.0</highRate>
+			<lowRate>400.0</lowRate>
+			<promo>Yes</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>Yes</package>
+			<carRental>Yes</carRental>
+			<flight>No</flight>
+			<localTour>No</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1005</roomNo>
+				<roomNo>1006</roomNo>
+				<roomNo>1007</roomNo>
+				<roomNo>1008</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="3">
+			<name>Park Hyatt Chicago</name>
+			<image>img/hotel/hotel3.jpg</image>
+			<address1>800 N Michigan Ave</address1>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<zipcode>60611</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>550.0</highRate>
+			<lowRate>200.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>Yes</flight>
+			<localTour>No</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1009</roomNo>
+				<roomNo>1010</roomNo>
+				<roomNo>1011</roomNo>
+				<roomNo>1012</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="4">
+			<name>Waldorf Astoria Chicago</name>
+			<image>img/hotel/hotel4.jpg</image>
+			<address1>11 E Walton St</address1>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<zipcode>60611</zipcode>
+			<hotelRating>3.0</hotelRating>
+			<highRate>400.0</highRate>
+			<lowRate>100.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>No</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>Yes</flight>
+			<localTour>No</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1013</roomNo>
+				<roomNo>1014</roomNo>
+				<roomNo>1015</roomNo>
+				<roomNo>1016</roomNo>
+			</rooms>
+		</hotel>
+
+	<!-- New York City ######################################################################################### -->
+
+		<hotel id="5">
+			<name>The Greenwich Hotel</name>
+			<image>img/hotel/hotel5.jpg</image>
+			<address1>377 Greenwich St</address1>
+			<city>New York</city>
+			<state>New York</state>
+			<zipcode>10013</zipcode>
+			<hotelRating>5</hotelRating>
+			<highRate>630.0</highRate>
+			<lowRate>300.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>10</discount>
+			<rooms>
+				<roomNo>1017</roomNo>
+				<roomNo>1018</roomNo>
+				<roomNo>1019</roomNo>
+				<roomNo>1020</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="6">
+			<name>The Lowell Hotel</name>
+			<image>img/hotel/hotel6.jpg</image>
+			<address1>28 East 63rd Street, at Madison Ave</address1>
+			<city>New York</city>
+			<state>New York</state>
+			<zipcode>10065</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>800.0</highRate>
+			<lowRate>400.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>12</discount>
+			<rooms>
+				<roomNo>1021</roomNo>
+				<roomNo>1022</roomNo>
+				<roomNo>1023</roomNo>
+				<roomNo>1024</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="7">
+			<name>Crosby Street Hotel</name>
+			<image>img/hotel/hotel7.jpg</image>
+			<address1>79 Crosby St</address1>
+			<city>New York</city>
+			<state>New York</state>
+			<zipcode>10012</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>900.0</highRate>
+			<lowRate>600.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>No</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1025</roomNo>
+				<roomNo>1026</roomNo>
+				<roomNo>1027</roomNo>
+				<roomNo>1028</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="8">
+			<name>The NoMad Hotel</name>
+			<image>img/hotel/hotel8.jpg</image>
+			<address1>1170 Broadway</address1>
+			<city>New York</city>
+			<state>New York</state>
+			<zipcode>10001</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>30.0</highRate>
+			<lowRate>90.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>6</discount>
+			<rooms>
+				<roomNo>1029</roomNo>
+				<roomNo>1030</roomNo>
+				<roomNo>1031</roomNo>
+				<roomNo>1032</roomNo>
+			</rooms>
+		</hotel>
+	<!-- Seattle City ######################################################################################### -->
+
+		<hotel id="9">
+			<name>Loews Hotel 1000</name>
+			<image>img/hotel/hotel9.jpg</image>
+			<address1>1000 1st Ave</address1>
+			<city>Seattle</city>
+			<state>Washington</state>
+			<zipcode>98104</zipcode>
+			<hotelRating>5</hotelRating>
+			<highRate>600.0</highRate>
+			<lowRate>300.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1033</roomNo>
+				<roomNo>1034</roomNo>
+				<roomNo>1035</roomNo>
+				<roomNo>1036</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="10">
+			<name>Grand Hyatt Seattle</name>
+			<image>img/hotel/hotel10.jpg</image>
+			<address1>721 Pine St</address1>
+			<city>Seattle</city>
+			<state>Washington</state>
+			<zipcode>98101</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>600.0</highRate>
+			<lowRate>300.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>Yes</flight>
+			<localTour>No</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1037</roomNo>
+				<roomNo>1038</roomNo>
+				<roomNo>1039</roomNo>
+				<roomNo>1040</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="11">
+			<name>Inn at the Market</name>
+			<image>img/hotel/hotel11.jpg</image>
+			<address1>86 Pine St</address1>
+			<city>Seattle</city>
+			<state>Washington</state>
+			<zipcode>98101</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>90.0</highRate>
+			<lowRate>40.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>8</discount>
+			<rooms>
+				<roomNo>1041</roomNo>
+				<roomNo>1042</roomNo>
+				<roomNo>1043</roomNo>
+				<roomNo>1044</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="12">
+			<name>Hyatt at Olive 8</name>
+			<image>img/hotel/hotel12.jpg</image>
+			<address1>1635 8th Ave</address1>
+			<city>Seattle</city>
+			<state>Washington</state>
+			<zipcode>98101</zipcode>98101
+			<hotelRating>4.0</hotelRating>
+			<highRate>700.0</highRate>
+			<lowRate>500.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>No</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>No</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1045</roomNo>
+				<roomNo>1046</roomNo>
+				<roomNo>1047</roomNo>
+				<roomNo>1048</roomNo>
+			</rooms>
+		</hotel>
+
+	<!-- Los Angeles City ######################################################################################### -->
+
+		<hotel id="13">
+			<name>Hotel Bel-Air</name>
+			<image>img/hotel/hotel13.jpg</image>
+			<address1>701 Stone Canyon Rd</address1>
+			<city>Los Angeles</city>
+			<state>California</state>
+			<zipcode>90077</zipcode>
+			<hotelRating>5</hotelRating>
+			<highRate>200.0</highRate>
+			<lowRate>100.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>Yes</flight>
+			<localTour>No</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>30</discount>
+			<rooms>
+				<roomNo>1049</roomNo>
+				<roomNo>1050</roomNo>
+				<roomNo>1051</roomNo>
+				<roomNo>1052</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="14">
+			<name>Mr. C Beverly Hills</name>
+			<image>img/hotel/hotel14.jpg</image>
+			<address1>1224 Beverwil Dr</address1>
+			<city>Los Angeles</city>
+			<state>California</state>
+			<zipcode>90035</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>1500.0</highRate>
+			<lowRate>30.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1053</roomNo>
+				<roomNo>1054</roomNo>
+				<roomNo>1055</roomNo>
+				<roomNo>1056</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="15">
+			<name>Four Seasons Hotel</name>
+			<image>img/hotel/hotel15.jpg</image>
+			<address1>300 S Doheny Dr</address1>
+			<city>Los Angeles</city>
+			<state>California</state>
+			<zipcode>90048</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>300.0</highRate>
+			<lowRate>200.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>No</disabilityCare>
+			<package>Yes</package>
+			<carRental>Yes</carRental>
+			<flight>No</flight>
+			<localTour>No</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>15</discount>
+			<rooms>
+				<roomNo>1057</roomNo>
+				<roomNo>1058</roomNo>
+				<roomNo>1059</roomNo>
+				<roomNo>1060</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="16">
+			<name>Terranea Resort</name>
+			<image>img/hotel/hotel16.jpg</image>
+			<address1>100 Terranea Way</address1>
+			<city>Rancho Palos Verdes</city>
+			<state>California</state>
+			<zipcode>90015</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>530.0</highRate>
+			<lowRate>330.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>No</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1061</roomNo>
+				<roomNo>1062</roomNo>
+				<roomNo>1063</roomNo>
+				<roomNo>1064</roomNo>
+			</rooms>
+		</hotel>
+
+	<!-- Pittsburgh ######################################################################################### -->
+
+		<hotel id="17">
+			<name>ACE Hotel Pittsburgh</name>
+			<image>img/hotel/hotel17.jpg</image>
+			<address1>120 S Whitfield St</address1>
+			<city>Pittsburgh</city>
+			<state>Pennsylvania</state>
+			<zipcode>15206</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>400.0</highRate>
+			<lowRate>200.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1065</roomNo>
+				<roomNo>1066</roomNo>
+				<roomNo>1067</roomNo>
+				<roomNo>1068</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="18">
+			<name>Omni William Penn Hotel</name>
+			<image>img/hotel/hotel18.jpg</image>
+			<address1>530 William Penn Pl</address1>
+			<city>Pittsburgh</city>
+			<state>Pennsylvania</state>
+			<zipcode>15219</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>1000.0</highRate>
+			<lowRate>500.0</lowRate>
+			<promo>No</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>11</discount>
+			<rooms>
+				<roomNo>1069</roomNo>
+				<roomNo>1070</roomNo>
+				<roomNo>1071</roomNo>
+				<roomNo>1072</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="19">
+			<name>Fairmont Pittsburgh</name>
+			<image>img/hotel/hotel19.jpg</image>
+			<address1>510 Market Street</address1>
+			<city>Pittsburgh</city>
+			<state>Pennsylvania</state>
+			<zipcode>15222</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>100.0</highRate>
+			<lowRate>40.0</lowRate>
+			<promo>Yes</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>No</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>22</discount>
+			<rooms>
+				<roomNo>1073</roomNo>
+				<roomNo>1074</roomNo>
+				<roomNo>1075</roomNo>
+				<roomNo>1076</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="20">
+			<name>Renaissance Hotel</name>
+			<image>img/hotel/hotel20.jpg</image>
+			<address1>107 6th St</address1>
+			<city>Pittsburgh</city>
+			<state>Pennsylvania</state>
+			<zipcode>15222</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>500.0</highRate>
+			<lowRate>200.0</lowRate>
+			<promo>Yes</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>15</discount>
+			<rooms>
+				<roomNo>1077</roomNo>
+				<roomNo>1078</roomNo>
+				<roomNo>1079</roomNo>
+				<roomNo>1080</roomNo>
+			</rooms>
+		</hotel>
+
+		<!-- ############## for price match ############### -->
+		<hotel id="21">
+			<name>Grand  Hotel</name>
+			<image>img/hotel/hotel21.jpg</image>
+			<address1>4333 Collins Ave, Miami Beach</address1>
+			<city>Miami</city>
+			<state>Florida</state>
+			<zipcode>33140</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>250.0</highRate>
+			<lowRate>49.0</lowRate>
+			<promo>Yes</promo>
+			<disabilityCare>No</disabilityCare>
+			<package>Yes</package>
+			<carRental>No</carRental>
+			<flight>No</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>18</discount>
+			<rooms>
+				<roomNo>1081</roomNo>
+				<roomNo>1082</roomNo>
+				<roomNo>1083</roomNo>
+				<roomNo>1084</roomNo>
+			</rooms>
+		</hotel>
+
+		<hotel id="22">
+			<name>ARIA Resort</name>
+			<image>img/hotel/hotel22.jpg</image>
+			<address1>3730 S Las Vegas Blvd</address1>
+			<city>Las Vegas</city>
+			<state>Nevada</state>
+			<zipcode>89158</zipcode>
+			<hotelRating>4.0</hotelRating>
+			<highRate>85.0</highRate>
+			<lowRate>50.0</lowRate>
+			<promo>Yes</promo>
+			<disabilityCare>Yes</disabilityCare>
+			<package>No</package>
+			<carRental>Yes</carRental>
+			<flight>Yes</flight>
+			<localTour>Yes</localTour>
+			<gym>Yes</gym>
+			<pool>Yes</pool>
+			<discount>0</discount>
+			<rooms>
+				<roomNo>1085</roomNo>
+				<roomNo>1086</roomNo>
+				<roomNo>1087</roomNo>
+				<roomNo>1088</roomNo>
+			</rooms>
+		</hotel>
+
+
+	</HotelCatalog>
+
+	<RoomCatalog>
+
+	<!-- Chicago ######################################################################################### -->
+
+		<Room id="1001">
+			<numberOfAdults>1</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>58</rate>
+			<quantity>10</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1002">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>4</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>60</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1003">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>70</rate>
+			<quantity>17</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1004">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>80</rate>
+			<quantity>5</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+
+		<Room id="1005">
+			<numberOfAdults>3</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>570</rate>
+			<quantity>15</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1006">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>474</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1007">
+			<numberOfAdults>1</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>590</rate>
+			<quantity>15</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1008">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>534</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+
+		<Room id="1009">
+			<numberOfAdults>1</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>220</rate>
+			<quantity>10</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1010">
+			<numberOfAdults>3</numberOfAdults>
+			<numberOfChildren>5</numberOfChildren>
+			<rimage>img/hotel/rooms/room6.jpg</rimage>
+			<rate>520</rate>
+			<quantity>5</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1011">
+			<numberOfAdults>1</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>230</rate>
+			<quantity>10</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1012">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>320</rate>
+			<quantity>5</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1013">
+			<numberOfAdults>3</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>180</rate>
+			<quantity>4</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1014">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1015">
+			<numberOfAdults>1</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>170</rate>
+			<quantity>4</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1016">
+			<numberOfAdults>4</numberOfAdults>
+			<numberOfChildren>4</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>290</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+
+	<!-- New York ######################################################################################### -->
+
+		<Room id="1017">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>370</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1018">
+			<numberOfAdults>3</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1019">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>330</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1020">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>420</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1021">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>490</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1022">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room6.jpg</rimage>
+			<rate>530</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1023">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>650</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1024">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>700</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1025">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room6.jpg</rimage>
+			<rate>690</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1026">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>650</rate>
+			<quantity>10</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1027">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>740</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1028">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>880</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1029">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>80</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1030">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>34</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1031">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>58</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1032">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>50</rate>
+			<quantity>10</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+
+	<!-- Seattle ######################################################################################### -->
+
+		<Room id="1033">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1034">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room6.jpg</rimage>
+			<rate>333</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1035">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>444</rate>
+			<quantity>8</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1036">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>384</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1037">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>490</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1038">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>330</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1039">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>290</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1040">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1041">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>80</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1042">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>70</rate>
+			<quantity>5</quantity>
+			<ac>No</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1043">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>50</rate>
+			<quantity>4</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1044">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>60</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1045">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>590</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1046">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>670</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1047">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>4</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>530</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1048">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>1</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>790</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+
+	<!-- Los Angles ######################################################################################### -->
+
+		<Room id="1049">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>110</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1050">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>140</rate>
+			<quantity>2</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1051">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>170</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1052">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>180</rate>
+			<quantity>5</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1053">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>50</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1054">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>77</rate>
+			<quantity>8</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1055">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room6.jpg</rimage>
+			<rate>65</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1056">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>4</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>146</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1057">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>220</rate>
+			<quantity>4</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1058">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>290</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1059">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>5</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>229</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1060">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>299</rate>
+			<quantity>7</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1061">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>378</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1062">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room9.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Signle</roomType>
+		</Room>
+		<Room id="1063">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>350</rate>
+			<quantity>5</quantity>
+			<ac>No</ac>
+			<roomType>Double</roomType>
+		</Room>
+
+		<Room id="1064">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>528</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+
+	<!-- Pittsburgh ######################################################################################### -->
+
+		<Room id="1065">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1066">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>290</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1067">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>340</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1068">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>200</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1069">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>690</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1070">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room2.jpg</rimage>
+			<rate>590</rate>
+			<quantity>5</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1071">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>890</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1072">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>820</rate>
+			<quantity>8</quantity>
+			<ac>No</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1073">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>40</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1074">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>50</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+
+		<Room id="1075">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>60</rate>
+			<quantity>8</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1076">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>80</rate>
+			<quantity>4</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1077">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>393</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1078">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>5</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>292</rate>
+			<quantity>9</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1079">
+			<numberOfAdults>3</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>360</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1080">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>320</rate>
+			<quantity>10</quantity>
+			<ac>No</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1081">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room8.jpg</rimage>
+			<rate>210</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1082">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>390</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+
+		<Room id="1083">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room4.jpg</rimage>
+			<rate>260</rate>
+			<quantity>7</quantity>
+			<ac>Yes</ac>
+			<roomType>Double</roomType>
+		</Room>
+		<Room id="1084">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>340</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1085">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room7.jpg</rimage>
+			<rate>53</rate>
+			<quantity>8</quantity>
+			<ac>No</ac>
+			<roomType>Deluxe</roomType>
+		</Room>
+		<Room id="1086">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>5</numberOfChildren>
+			<rimage>img/hotel/rooms/room5.jpg</rimage>
+			<rate>57</rate>
+			<quantity>3</quantity>
+			<ac>Yes</ac>
+			<roomType>Single</roomType>
+		</Room>
+		<Room id="1087">
+			<numberOfAdults>3</numberOfAdults>
+			<numberOfChildren>3</numberOfChildren>
+			<rimage>img/hotel/rooms/room3.jpg</rimage>
+			<rate>60</rate>
+			<quantity>6</quantity>
+			<ac>Yes</ac>
+			<roomType>Queen</roomType>
+		</Room>
+		<Room id="1088">
+			<numberOfAdults>2</numberOfAdults>
+			<numberOfChildren>2</numberOfChildren>
+			<rimage>img/hotel/rooms/room1.jpg</rimage>
+			<rate>80</rate>
+			<quantity>3</quantity>
+			<ac>No</ac>
+			<roomType>Double</roomType>
+		</Room>
+	</RoomCatalog>
+</hotels>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd" version="3.1" metadata-complete="true">
+
+    <display-name>HotelDeals</display-name>
+    <welcome-file-list>
+        <welcome-file>Home</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <servlet-name>Startup</servlet-name>
+        <servlet-class>Startup</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Startup</servlet-name>
+        <url-pattern>/Startup</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Home</servlet-name>
+        <servlet-class>Home</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Home</servlet-name>
+        <url-pattern>/Home</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SignUp</servlet-name>
+        <servlet-class>SignUp</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SignUp</servlet-name>
+        <url-pattern>/SignUp</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>Login</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/Login</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Logout</servlet-name>
+        <servlet-class>Logout</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Logout</servlet-name>
+        <url-pattern>/Logout</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DisplayHotels</servlet-name>
+        <servlet-class>DisplayHotels</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DisplayHotels</servlet-name>
+        <url-pattern>/DisplayHotels</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DisplayRooms</servlet-name>
+        <servlet-class>DisplayRooms</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DisplayRooms</servlet-name>
+        <url-pattern>/DisplayRooms</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Cart</servlet-name>
+        <servlet-class>Cart</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Cart</servlet-name>
+        <url-pattern>/Cart</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>RemoveItem</servlet-name>
+        <servlet-class>RemoveItem</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RemoveItem</servlet-name>
+        <url-pattern>/RemoveItem</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CheckOut</servlet-name>
+        <servlet-class>CheckOut</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CheckOut</servlet-name>
+        <url-pattern>/CheckOut</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AutoComplete</servlet-name>
+        <servlet-class>AutoComplete</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AutoComplete</servlet-name>
+        <url-pattern>/AutoComplete</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Account</servlet-name>
+        <servlet-class>Account</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Account</servlet-name>
+        <url-pattern>/Account</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeleteBooking</servlet-name>
+        <servlet-class>DeleteBooking</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteBooking</servlet-name>
+        <url-pattern>/DeleteBooking</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ManagerAccount</servlet-name>
+        <servlet-class>ManagerAccount</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ManagerAccount</servlet-name>
+        <url-pattern>/ManagerAccount</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AddHotel</servlet-name>
+        <servlet-class>AddHotel</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddHotel</servlet-name>
+        <url-pattern>/AddHotel</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpdateHotel</servlet-name>
+        <servlet-class>UpdateHotel</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateHotel</servlet-name>
+        <url-pattern>/UpdateHotel</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeleteHotel</servlet-name>
+        <servlet-class>DeleteHotel</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteHotel</servlet-name>
+        <url-pattern>/DeleteHotel</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AddRoom</servlet-name>
+        <servlet-class>AddRoom</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddRoom</servlet-name>
+        <url-pattern>/AddRoom</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpdateRoom</servlet-name>
+        <servlet-class>UpdateRoom</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateRoom</servlet-name>
+        <url-pattern>/UpdateRoom</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeleteRoom</servlet-name>
+        <servlet-class>DeleteRoom</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteRoom</servlet-name>
+        <url-pattern>/DeleteRoom</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>RoomSearch</servlet-name>
+        <servlet-class>RoomSearch</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RoomSearch</servlet-name>
+        <url-pattern>/RoomSearch</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetDirection</servlet-name>
+        <servlet-class>GetDirection</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetDirection</servlet-name>
+        <url-pattern>/GetDirection</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>HomeSearchAutoComplete</servlet-name>
+        <servlet-class>HomeSearchAutoComplete</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HomeSearchAutoComplete</servlet-name>
+        <url-pattern>/HomeSearchAutoComplete</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>WriteReview</servlet-name>
+        <servlet-class>WriteReview</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>WriteReview</servlet-name>
+        <url-pattern>/WriteReview</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ViewReview</servlet-name>
+        <servlet-class>ViewReview</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewReview</servlet-name>
+        <url-pattern>/ViewReview</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Trending</servlet-name>
+        <servlet-class>Trending</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Trending</servlet-name>
+        <url-pattern>/Trending</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SearchHotel</servlet-name>
+        <servlet-class>SearchHotel</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SearchHotel</servlet-name>
+        <url-pattern>/SearchHotel</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+      <servlet-name>DisplayPackages</servlet-name>
+      <servlet-class>DisplayPackages</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DisplayPackages</servlet-name>
+        <url-pattern>/DisplayPackages</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+      <servlet-name>InventoryReport</servlet-name>
+      <servlet-class>InventoryReport</servlet-class>
+  </servlet>
+  <servlet-mapping>
+      <servlet-name>InventoryReport</servlet-name>
+      <url-pattern>/InventoryReport</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>UpdateBooking</servlet-name>
+    <servlet-class>UpdateBooking</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>UpdateBooking</servlet-name>
+    <url-pattern>/UpdateBooking</url-pattern>
+</servlet-mapping>
+
+<servlet>
+  <servlet-name>DisplayDeals</servlet-name>
+  <servlet-class>DisplayDeals</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>DisplayDeals</servlet-name>
+  <url-pattern>/DisplayDeals</url-pattern>
+</servlet-mapping>
+
+<servlet>
+  <servlet-name>RevenueReport</servlet-name>
+  <servlet-class>RevenueReport</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>RevenueReport</servlet-name>
+  <url-pattern>/RevenueReport</url-pattern>
+</servlet-mapping>
+
+<servlet>
+  <servlet-name>DeleteReview</servlet-name>
+  <servlet-class>DeleteReview</servlet-class>
+</servlet>
+<servlet-mapping>
+  <servlet-name>DeleteReview</servlet-name>
+  <url-pattern>/DeleteReview</url-pattern>
+</servlet-mapping>
+
+
+</web-app>
